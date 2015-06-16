@@ -12,3 +12,5 @@
 
 <a href="https://github.com/robbiehanson/CocoaHTTPServer">CocoaHTTPServer是一个用于Mac OS X或iOS应用的轻量级、可嵌入的HTTP服务器框架。</a>
 
+
+<a href="https://github.com/jessesquires/JSQMessagesViewController">优雅的 iOS 消息类库, 常用于聊天应用中, 可定制性高</a>
