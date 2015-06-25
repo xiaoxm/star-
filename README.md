@@ -18,4 +18,4 @@
 
 <a href="https://github.com/JanC/TAPromotee">通过iTunes的API自动获取APP的信息。</a>
 
-<a href="http://cocoacats.com/">好用分类大集合</a>
+<a target="_blank" href="http://cocoacats.com/">好用分类大集合</a>
