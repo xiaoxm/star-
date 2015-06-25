@@ -17,3 +17,5 @@
 <a href="https://github.com/CEWendel/SWTableViewCell">左右滑动显示信息视图并调出按钮</a>
 
 <a href="https://github.com/JanC/TAPromotee">通过iTunes的API自动获取APP的信息。</a>
+
+<a href="http://cocoacats.com/">好用分类大集合</a>
