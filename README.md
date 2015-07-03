@@ -21,7 +21,7 @@
 <a target="_blank" href="http://cocoacats.com/">好用分类大集合</a>
 
 
-<span>博客汇总</span>
+<p>博客汇总</p>
 <a target="_blank" href="http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html">iOS应用架构谈（系列）</a>
 <a target="_blank" href="https://github.com/NunchakusHuang/trip-to-iOS">ios学习资料汇总</a>
 
